@@ -1,0 +1,203 @@
+Instance 1: Correct classification, actual: 1, predicted:1
+Instance 2: Correct classification, actual: 1, predicted:1
+Instance 3: Correct classification, actual: 1, predicted:1
+Instance 4: Correct classification, actual: 1, predicted:1
+Instance 5: Misclassification, actual: 1, predicted:7
+Instance 6: Correct classification, actual: 1, predicted:1
+Instance 7: Correct classification, actual: 1, predicted:1
+Instance 8: Correct classification, actual: 1, predicted:1
+Instance 9: Correct classification, actual: 1, predicted:1
+Instance 10: Correct classification, actual: 1, predicted:1
+Instance 11: Correct classification, actual: 1, predicted:1
+Instance 12: Correct classification, actual: 1, predicted:1
+Instance 13: Correct classification, actual: 1, predicted:1
+Instance 14: Correct classification, actual: 1, predicted:1
+Instance 15: Misclassification, actual: 1, predicted:9
+Instance 16: Correct classification, actual: 1, predicted:1
+Instance 17: Misclassification, actual: 1, predicted:9
+Instance 18: Correct classification, actual: 1, predicted:1
+Instance 19: Correct classification, actual: 1, predicted:1
+Instance 20: Correct classification, actual: 1, predicted:1
+Instance 21: Correct classification, actual: 1, predicted:1
+Instance 22: Correct classification, actual: 1, predicted:1
+Instance 23: Correct classification, actual: 1, predicted:1
+Instance 24: Correct classification, actual: 1, predicted:1
+Instance 25: Correct classification, actual: 1, predicted:1
+Instance 26: Correct classification, actual: 1, predicted:1
+Instance 27: Correct classification, actual: 1, predicted:1
+Instance 28: Correct classification, actual: 1, predicted:1
+Instance 29: Correct classification, actual: 1, predicted:1
+Instance 30: Correct classification, actual: 1, predicted:1
+Instance 31: Correct classification, actual: 1, predicted:1
+Instance 32: Correct classification, actual: 1, predicted:1
+Instance 33: Misclassification, actual: 1, predicted:4
+Instance 34: Misclassification, actual: 1, predicted:9
+Instance 35: Correct classification, actual: 1, predicted:1
+Instance 36: Correct classification, actual: 1, predicted:1
+Instance 37: Correct classification, actual: 1, predicted:1
+Instance 38: Misclassification, actual: 1, predicted:9
+Instance 39: Correct classification, actual: 1, predicted:1
+Instance 40: Correct classification, actual: 1, predicted:1
+Instance 41: Correct classification, actual: 4, predicted:4
+Instance 42: Correct classification, actual: 4, predicted:4
+Instance 43: Correct classification, actual: 4, predicted:4
+Instance 44: Correct classification, actual: 4, predicted:4
+Instance 45: Correct classification, actual: 4, predicted:4
+Instance 46: Misclassification, actual: 4, predicted:1
+Instance 47: Correct classification, actual: 4, predicted:4
+Instance 48: Correct classification, actual: 4, predicted:4
+Instance 49: Correct classification, actual: 4, predicted:4
+Instance 50: Correct classification, actual: 4, predicted:4
+Instance 51: Misclassification, actual: 4, predicted:7
+Instance 52: Correct classification, actual: 4, predicted:4
+Instance 53: Correct classification, actual: 4, predicted:4
+Instance 54: Misclassification, actual: 4, predicted:1
+Instance 55: Correct classification, actual: 4, predicted:4
+Instance 56: Correct classification, actual: 4, predicted:4
+Instance 57: Correct classification, actual: 4, predicted:4
+Instance 58: Correct classification, actual: 4, predicted:4
+Instance 59: Correct classification, actual: 4, predicted:4
+Instance 60: Correct classification, actual: 4, predicted:4
+Instance 61: Correct classification, actual: 4, predicted:4
+Instance 62: Correct classification, actual: 4, predicted:4
+Instance 63: Correct classification, actual: 4, predicted:4
+Instance 64: Correct classification, actual: 4, predicted:4
+Instance 65: Correct classification, actual: 4, predicted:4
+Instance 66: Misclassification, actual: 4, predicted:7
+Instance 67: Correct classification, actual: 4, predicted:4
+Instance 68: Correct classification, actual: 4, predicted:4
+Instance 69: Correct classification, actual: 4, predicted:4
+Instance 70: Correct classification, actual: 4, predicted:4
+Instance 71: Correct classification, actual: 4, predicted:4
+Instance 72: Correct classification, actual: 4, predicted:4
+Instance 73: Correct classification, actual: 4, predicted:4
+Instance 74: Correct classification, actual: 4, predicted:4
+Instance 75: Correct classification, actual: 4, predicted:4
+Instance 76: Correct classification, actual: 4, predicted:4
+Instance 77: Correct classification, actual: 4, predicted:4
+Instance 78: Correct classification, actual: 4, predicted:4
+Instance 79: Correct classification, actual: 4, predicted:4
+Instance 80: Correct classification, actual: 4, predicted:4
+Instance 81: Correct classification, actual: 7, predicted:7
+Instance 82: Correct classification, actual: 7, predicted:7
+Instance 83: Misclassification, actual: 7, predicted:9
+Instance 84: Correct classification, actual: 7, predicted:7
+Instance 85: Correct classification, actual: 7, predicted:7
+Instance 86: Correct classification, actual: 7, predicted:7
+Instance 87: Correct classification, actual: 7, predicted:7
+Instance 88: Correct classification, actual: 7, predicted:7
+Instance 89: Correct classification, actual: 7, predicted:7
+Instance 90: Correct classification, actual: 7, predicted:7
+Instance 91: Correct classification, actual: 7, predicted:7
+Instance 92: Correct classification, actual: 7, predicted:7
+Instance 93: Correct classification, actual: 7, predicted:7
+Instance 94: Correct classification, actual: 7, predicted:7
+Instance 95: Misclassification, actual: 7, predicted:1
+Instance 96: Correct classification, actual: 7, predicted:7
+Instance 97: Correct classification, actual: 7, predicted:7
+Instance 98: Correct classification, actual: 7, predicted:7
+Instance 99: Misclassification, actual: 7, predicted:4
+Instance 100: Correct classification, actual: 7, predicted:7
+Instance 101: Correct classification, actual: 7, predicted:7
+Instance 102: Correct classification, actual: 7, predicted:7
+Instance 103: Correct classification, actual: 7, predicted:7
+Instance 104: Correct classification, actual: 7, predicted:7
+Instance 105: Correct classification, actual: 7, predicted:7
+Instance 106: Misclassification, actual: 7, predicted:1
+Instance 107: Correct classification, actual: 7, predicted:7
+Instance 108: Correct classification, actual: 7, predicted:7
+Instance 109: Correct classification, actual: 7, predicted:7
+Instance 110: Correct classification, actual: 7, predicted:7
+Instance 111: Misclassification, actual: 7, predicted:9
+Instance 112: Correct classification, actual: 7, predicted:7
+Instance 113: Misclassification, actual: 7, predicted:1
+Instance 114: Correct classification, actual: 7, predicted:7
+Instance 115: Correct classification, actual: 7, predicted:7
+Instance 116: Correct classification, actual: 7, predicted:7
+Instance 117: Correct classification, actual: 7, predicted:7
+Instance 118: Correct classification, actual: 7, predicted:7
+Instance 119: Correct classification, actual: 7, predicted:7
+Instance 120: Misclassification, actual: 7, predicted:4
+Instance 121: Correct classification, actual: 8, predicted:8
+Instance 122: Correct classification, actual: 8, predicted:8
+Instance 123: Correct classification, actual: 8, predicted:8
+Instance 124: Correct classification, actual: 8, predicted:8
+Instance 125: Correct classification, actual: 8, predicted:8
+Instance 126: Correct classification, actual: 8, predicted:8
+Instance 127: Correct classification, actual: 8, predicted:8
+Instance 128: Correct classification, actual: 8, predicted:8
+Instance 129: Correct classification, actual: 8, predicted:8
+Instance 130: Correct classification, actual: 8, predicted:8
+Instance 131: Correct classification, actual: 8, predicted:8
+Instance 132: Correct classification, actual: 8, predicted:8
+Instance 133: Correct classification, actual: 8, predicted:8
+Instance 134: Correct classification, actual: 8, predicted:8
+Instance 135: Correct classification, actual: 8, predicted:8
+Instance 136: Correct classification, actual: 8, predicted:8
+Instance 137: Correct classification, actual: 8, predicted:8
+Instance 138: Correct classification, actual: 8, predicted:8
+Instance 139: Correct classification, actual: 8, predicted:8
+Instance 140: Correct classification, actual: 8, predicted:8
+Instance 141: Correct classification, actual: 8, predicted:8
+Instance 142: Correct classification, actual: 8, predicted:8
+Instance 143: Correct classification, actual: 8, predicted:8
+Instance 144: Correct classification, actual: 8, predicted:8
+Instance 145: Correct classification, actual: 8, predicted:8
+Instance 146: Correct classification, actual: 8, predicted:8
+Instance 147: Correct classification, actual: 8, predicted:8
+Instance 148: Misclassification, actual: 8, predicted:9
+Instance 149: Correct classification, actual: 8, predicted:8
+Instance 150: Correct classification, actual: 8, predicted:8
+Instance 151: Correct classification, actual: 8, predicted:8
+Instance 152: Correct classification, actual: 8, predicted:8
+Instance 153: Misclassification, actual: 8, predicted:7
+Instance 154: Correct classification, actual: 8, predicted:8
+Instance 155: Correct classification, actual: 8, predicted:8
+Instance 156: Correct classification, actual: 8, predicted:8
+Instance 157: Correct classification, actual: 8, predicted:8
+Instance 158: Correct classification, actual: 8, predicted:8
+Instance 159: Correct classification, actual: 8, predicted:8
+Instance 160: Correct classification, actual: 8, predicted:8
+Instance 161: Misclassification, actual: 9, predicted:8
+Instance 162: Correct classification, actual: 9, predicted:9
+Instance 163: Correct classification, actual: 9, predicted:9
+Instance 164: Correct classification, actual: 9, predicted:9
+Instance 165: Misclassification, actual: 9, predicted:8
+Instance 166: Correct classification, actual: 9, predicted:9
+Instance 167: Correct classification, actual: 9, predicted:9
+Instance 168: Correct classification, actual: 9, predicted:9
+Instance 169: Correct classification, actual: 9, predicted:9
+Instance 170: Correct classification, actual: 9, predicted:9
+Instance 171: Correct classification, actual: 9, predicted:9
+Instance 172: Misclassification, actual: 9, predicted:1
+Instance 173: Correct classification, actual: 9, predicted:9
+Instance 174: Correct classification, actual: 9, predicted:9
+Instance 175: Correct classification, actual: 9, predicted:9
+Instance 176: Correct classification, actual: 9, predicted:9
+Instance 177: Correct classification, actual: 9, predicted:9
+Instance 178: Correct classification, actual: 9, predicted:9
+Instance 179: Correct classification, actual: 9, predicted:9
+Instance 180: Correct classification, actual: 9, predicted:9
+Instance 181: Correct classification, actual: 9, predicted:9
+Instance 182: Correct classification, actual: 9, predicted:9
+Instance 183: Correct classification, actual: 9, predicted:9
+Instance 184: Correct classification, actual: 9, predicted:9
+Instance 185: Correct classification, actual: 9, predicted:9
+Instance 186: Correct classification, actual: 9, predicted:9
+Instance 187: Correct classification, actual: 9, predicted:9
+Instance 188: Correct classification, actual: 9, predicted:9
+Instance 189: Correct classification, actual: 9, predicted:9
+Instance 190: Correct classification, actual: 9, predicted:9
+Instance 191: Correct classification, actual: 9, predicted:9
+Instance 192: Correct classification, actual: 9, predicted:9
+Instance 193: Correct classification, actual: 9, predicted:9
+Instance 194: Correct classification, actual: 9, predicted:9
+Instance 195: Correct classification, actual: 9, predicted:9
+Instance 196: Correct classification, actual: 9, predicted:9
+Instance 197: Misclassification, actual: 9, predicted:8
+Instance 198: Correct classification, actual: 9, predicted:9
+Instance 199: Correct classification, actual: 9, predicted:9
+Instance 200: Correct classification, actual: 9, predicted:9
+Total instances: 200
+Correctly classified: 177
+Accuracy: 0.885
